@@ -1,3 +1,7 @@
+# 3600_CSI_Pairs
+CSI for 3600 user pairs: two users and one two-antenna BS/AP at 2.4GHz and 5MSps 
+
+
 O Objective
 
 This test measures the channel gain difference for 3600 users pairs. We have measured 
@@ -33,6 +37,3 @@ the strong users.
 O Report
 
 + The report shows our objective and the way we conducted the experiment with more details.
-
-# 3600_CSI_Pairs
-CSI for 3600 user pairs: two users and one two-antenna BS/AP at 2.4GHz and 5MSps 
